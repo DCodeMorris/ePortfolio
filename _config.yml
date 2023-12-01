@@ -43,7 +43,7 @@ menu:
     icon: ""
 
   - text: Artifact 3
-    link: /blog
+    link: /blog 1
     icon: ""
 
 # Socialmedia Icons
