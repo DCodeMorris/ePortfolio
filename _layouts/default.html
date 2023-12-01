@@ -19,10 +19,9 @@
   <body>
     <div class="wrapper">
       <header {% unless site.description or site.github.project_tagline %} class="without-description" {% endunless %}>
-        <h1>{{ Dustin Morris }}</h1>
-        <h2>{{ ePortfolio }}</h2>
+        <h1>{{ site.title | default: TEST }}</h1>
         {% if site.description or site.github.project_tagline %}
-          <p>{{ site.description | default: site.github.project_tagline }}</p>
+          <p>{{ site.description | default: TEST }}</p>
         {% endif %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ github_name }}</small></a></p>
         <ul>
