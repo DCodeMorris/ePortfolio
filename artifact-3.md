@@ -3,4 +3,4 @@
 
 # BLOG POSTS
 
-{% include Design/Artifact One/index.html %}
+{% include post/index.html %}
