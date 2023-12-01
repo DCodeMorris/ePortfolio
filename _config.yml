@@ -34,15 +34,15 @@ menu:
     icon: ""
 
   - text: Artifact 1
-    link: /contact
+    link: /artifact-1
     icon: ""
 
   - text: Artifact 2
-    link: /resume
+    link: /artifact-2
     icon: ""
 
   - text: Artifact 3
-    link: /blog 1
+    link: /artifact-3
     icon: ""
 
 # Socialmedia Icons
