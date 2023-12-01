@@ -30,19 +30,19 @@ menu:
     link: /
     icon: ""
 
-  - text: Skills & Offers
+  - text: Code Review
     link: /code-review
     icon: ""
 
-  - text: Contact Me
+  - text: Artifact 1
     link: /contact
     icon: ""
 
-  - text: My Resume
+  - text: Artifact 2
     link: /resume
     icon: ""
 
-  - text: Blog Posts
+  - text: Artifact 3
     link: /blog
     icon: ""
 
