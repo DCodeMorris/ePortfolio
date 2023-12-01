@@ -1,10 +1,10 @@
 # Dustin Morris
 
-# ePortfolio
+## ePortfolio
 
-# CS-499 Computer Science Capstone
+### CS-499 Computer Science Capstone
 
-# The Time machine theme
+### The Time machine theme
 
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/time-machine/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/time-machine/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-time-machine.svg)](https://badge.fury.io/rb/jekyll-theme-time-machine)
 
