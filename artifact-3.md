@@ -2,11 +2,4 @@
 ---
 
 # BLOG POSTS
-menu:
-  - text: Portfolio
-    link: /
-    icon: ""
-
-  - text: Skills & Offers
-    link: /skills-and-offers
-    icon: ""
+[I'm an inline-style link](https://www.google.com)
