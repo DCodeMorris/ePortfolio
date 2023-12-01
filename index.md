@@ -118,7 +118,4 @@ end
   <summary>Expand Code</summary>  
   
       tsx console.log('hello') 
-  
-  ```
-```  
 </details>
