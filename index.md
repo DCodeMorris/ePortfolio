@@ -119,8 +119,9 @@ end
 
 ```  
 ```python
-  class AnimalShelter(object):
+ class AnimalShelter(object):
 ```
+
 ```
 </summary>  
 ```
@@ -218,8 +219,8 @@ end
     def addAnimal(self, name, breed, age, sex):
         new_animal = {'name': name, 'breed': breed, 'age_upon_outcome_in_weeks': age, 'sex_upon_outcome': sex}
         return self.createRecord(new_animal)
+
 ```
 ```
 </details>
-```
 ```
