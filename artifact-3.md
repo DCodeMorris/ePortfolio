@@ -3,6 +3,10 @@
 
 # BLOG POSTS
 menu:
-  - name: github
-    link: https://github.com/christianezeani
-    icon: fab fa-github-square
+  - text: Portfolio
+    link: /
+    icon: ""
+
+  - text: Skills & Offers
+    link: /skills-and-offers
+    icon: ""
