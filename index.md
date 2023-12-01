@@ -114,17 +114,16 @@ end
 <dd>Green</dd>
 </dl>
 
-```
 <details><summary>Code Preview:(Click to extend complete code)
+```
 
-```  
 ```python
- class AnimalShelter(object):
+class AnimalShelter(object):
 ```
 
-```
 </summary>  
 ```
+
 ```python
     # =============================================================================
     # Created By  : Dustin Morris
@@ -223,4 +222,3 @@ end
 ```
 ```
 </details>
-```
