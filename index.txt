@@ -2,35 +2,29 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Dustin Morris
+Dustin Morris
+Programmer
 
 Show Contacts
 
 Email
-richard@example.com
-
-Phone
-+1 (213) 352-2795
-
-Birthday
-June 23, 1982
+oakend89@gmail.com
 
 Location
-Sacramento, California, USA
+Franklin, Ohio, USA
 
 # navbar
 
-About
-Resume
+Professional self-assessment
+Informal Code Review
 Portfolio
 Blog
 Contact
 
 # about
 
-About me
+ePortfolio
 
 I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
 
@@ -39,7 +33,7 @@ My job is to build your website so that it is functional and user-friendly but a
 
 ## service
 
-What i'm doing
+Professional self-assessment
 
 alt = design icon
 Web design
