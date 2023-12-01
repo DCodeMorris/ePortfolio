@@ -115,6 +115,7 @@ end
 </dl>
 
 <details><summary>Click here to view code</summary>
+
   
 ```python
 # =============================================================================
@@ -215,4 +216,6 @@ class AnimalShelter(object):
         new_animal = {'name': name, 'breed': breed, 'age_upon_outcome_in_weeks': age, 'sex_upon_outcome': sex}
         return self.createRecord(new_animal)
   ```
+
+  
 </details>
