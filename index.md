@@ -114,9 +114,7 @@ end
 <dd>Green</dd>
 </dl>
 
-<details> 
-  <summary>Expand Code</summary>  
-  
+
 ```python
 # =============================================================================
 # Created By  : Dustin Morris
@@ -215,5 +213,4 @@ class AnimalShelter(object):
     def addAnimal(self, name, breed, age, sex):
         new_animal = {'name': name, 'breed': breed, 'age_upon_outcome_in_weeks': age, 'sex_upon_outcome': sex}
         return self.createRecord(new_animal)
-  ```    
-</details>
+  ```
