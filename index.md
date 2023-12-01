@@ -114,6 +114,11 @@ end
 <dd>Green</dd>
 </dl>
 
-<details> <summary>Expand Code</summary>  
-  ```tsx console.log('hello') ```  
+<details> 
+  <summary>Expand Code</summary>  
+  
+      tsx console.log('hello') 
+  
+  ```
+```  
 </details>
