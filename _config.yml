@@ -19,11 +19,11 @@ subtitle: CS-499 Computer Science Capstone
 #   text_color: "#F00"
 
 footer:
-  copyright_text: "&copy; Christian Ezeani"
+  copyright_text: "&copy; Dustin Morris"
 
 # Side Menu Links
 menu:
-  - text: Portfolio
+  - text: Professional Self-Assessment
     link: /
     icon: ""
 
