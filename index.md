@@ -114,7 +114,7 @@ end
 <dd>Green</dd>
 </dl>
 
-
+```
 <details><summary>Code Preview:(Click to extend complete code) 
   
 ```python
@@ -218,3 +218,5 @@ end
         return self.createRecord(new_animal)
 ```
 </details>
+
+```
