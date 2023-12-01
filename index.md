@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Link to another page](./CS-499 Algorithms and Data Structures/Artifact Two Original/index.html).
 
 There should be whitespace between paragraphs.
 
