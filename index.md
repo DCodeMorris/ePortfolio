@@ -114,7 +114,7 @@ end
 <dd>Green</dd>
 </dl>
 
-<details>
+<details><summary>Click here to view code</summary>
   
 ```python
 # =============================================================================
