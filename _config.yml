@@ -10,7 +10,8 @@ paginate: 10
 paginate_path: "/blog/page:num/"
 
 title: Dustin Morris
-subtitle: CS-499 Computer Science Capstone
+<br>
+subtitle: ePortfoli
 
 # left_side:
 #   background_image: "./assets/images/left-background.jpg"
