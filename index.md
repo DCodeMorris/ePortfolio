@@ -12,9 +12,9 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 - Artifact 2 Algorithms and Data Structures
   - [(Original Build Files)](https://github.com/DCodeMorris/ePortfolio/tree/main/CS-499%20Algorithms%20and%20Data%20Structures/Artifact%20Two%20Original)
-    - [(Original Build Code)]CS-499 Algorithms and Data Structures/Artifact Two Original)
+    - [(Original Build Code)](./CS-499 Algorithms and Data Structures/Artifact Two Original)
   - [(Final Build Files)](https://github.com/DCodeMorris/ePortfolio/tree/main/CS-499%20Algorithms%20and%20Data%20Structures/Artifact%20Two%20Release)
-    - [(Final Build Code)]CS-499 Algorithms and Data Structures/Artifact Two Release)
+    - [(Final Build Code)](./CS-499 Algorithms and Data Structures/Artifact Two Release)
 
 - Artifact 3 Databases
   - [(Original Build Files)](https://github.com/DCodeMorris/ePortfolio/tree/main/CS-499%20Databases/Artifact%20Three%20Original)
