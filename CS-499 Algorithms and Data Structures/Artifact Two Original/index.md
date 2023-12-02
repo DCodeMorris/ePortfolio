@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Welcome to another page
+## Artifact Two Original Code Insert
 
-_yay_
+
 
 [back](./)
