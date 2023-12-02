@@ -5,16 +5,16 @@ layout: default
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 - Artifact 1 Software Engineering and Design
-  - [(Original Code)](./CS-499 Software Engineering and Design/Artifact One Original/)
-  - [(Release Code)](./CS-499 Software Engineering and Design/Artifact One Release/)
+  - [(Original Code)](./CS-499 Software Engineering and Design/Artifact One Original)
+  - [(Release Code)](./CS-499 Software Engineering and Design/Artifact One Release)
 
 - Artifact 2 Algorithms and Data Structures
-  - [(Original Code)](./CS-499 Algorithms and Data Structures/Artifact Two Original/)
-  - [(Release Code)](./CS-499 Algorithms and Data Structures/Artifact Two Release/)
+  - [(Original Code)](./CS-499 Algorithms and Data Structures/Artifact Two Original)
+  - [(Release Code)](./CS-499 Algorithms and Data Structures/Artifact Two Release)
 
 - Artifact 3 Databases
-  - [(Original Code)](./CS-499 Databases/Artifact Three Original/)
-  - [(Release Code)](./CS-499 Databases/Artifact Three Release/)
+  - [(Original Code)](./CS-499 Databases/Artifact Three Original)
+  - [(Release Code)](./CS-499 Databases/Artifact Three Release)
 
 
 There should be whitespace between paragraphs.
