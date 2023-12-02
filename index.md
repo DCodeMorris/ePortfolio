@@ -5,15 +5,15 @@ layout: default
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 - Artifact 1 Software Engineering and Design
-  - [(Original Code)](./CS-499 Software Engineering and Design/Artifact One Original)
+  - [(Original Code)](https://github.com/DCodeMorris/ePortfolio/tree/main/CS-499%20Software%20Engineering%20and%20Design/Artifact%20One%20Original)
   - [(Release Code)](https://github.com/DCodeMorris/ePortfolio/tree/main/CS-499%20Software%20Engineering%20and%20Design/Artifact%20One%20Release)
 
 - Artifact 2 Algorithms and Data Structures
-  - [(Original Code)](./CS-499 Algorithms and Data Structures/Artifact Two Original)
+  - [(Original Code)](https://github.com/DCodeMorris/ePortfolio/tree/main/CS-499%20Algorithms%20and%20Data%20Structures/Artifact%20Two%20Original)
   - [(Release Code)](https://github.com/DCodeMorris/ePortfolio/tree/main/CS-499%20Algorithms%20and%20Data%20Structures/Artifact%20Two%20Release)
 
 - Artifact 3 Databases
-  - [(Original Code)](./CS-499 Databases/Artifact Three Original)
+  - [(Original Code)](https://github.com/DCodeMorris/ePortfolio/tree/main/CS-499%20Databases/Artifact%20Three%20Original)
   - [(Release Code)](https://github.com/DCodeMorris/ePortfolio/tree/main/CS-499%20Databases/Artifact%20Three%20Release)
 
 
