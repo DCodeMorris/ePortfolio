@@ -53,7 +53,7 @@ layout: default
 
 
 <div style="text-align: center;">
-    <a href="[https://github.com/DCodeMorris/ePortfolio/blob/main/assets/img/Salvare%20Screenshot%20Artifact%203.png)" target="_blank">
+    <a href="https://github.com/DCodeMorris/ePortfolio/blob/main/assets/img/Salvare%20Screenshot%20Artifact%203.png" target="_blank">
 		<img src="assets/img/Salvare Screenshot Artifact 3.png" width="720px" title="Salvare Application Screenshot" />
 	</a>
     <p><em>Figure 3 - Salvare Search with Database Enhancement - CS-340 Client/Server Development</em></p>
