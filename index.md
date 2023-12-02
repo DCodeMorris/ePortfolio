@@ -19,11 +19,11 @@ layout: default
   - [(Final Build Code)](./CS-499 Algorithms and Data Structures/Artifact Two Release)</u>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-- **Artifact 3 Databases** \| [(View Narrative)](https://github.com/DCodeMorris/ePortfolio/blob/main/Narratives/20231120_Narrative_Databases_Morris.pdf)
+- <u>**Artifact 3 Databases** \| [(View Narrative)](https://github.com/DCodeMorris/ePortfolio/blob/main/Narratives/20231120_Narrative_Databases_Morris.pdf)
   - <u>[(Original Build Files)](https://github.com/DCodeMorris/ePortfolio/tree/main/CS-499%20Databases/Artifact%20Three%20Original)
   - [(Original Build Code)](./CS-499 Databases/Artifact Three Original)
   - [(Final Build Files)](https://github.com/DCodeMorris/ePortfolio/tree/main/CS-499%20Databases/Artifact%20Three%20Release)
-  - [(Final Build Code)](./CS-499 Databases/Artifact Three Release)</>
+  - [(Final Build Code)](./CS-499 Databases/Artifact Three Release)</u>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
