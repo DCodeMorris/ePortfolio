@@ -46,7 +46,7 @@ layout: default
     <a href="https://github.com/DCodeMorris/ePortfolio/blob/main/assets/img/Salvare%20Screenshot%20Artifact%202.png" target="_blank">
 		<img src="assets/img/Salvare Screenshot Artifact 2.png" width="720px" title="Salvare Application Screenshot" />
 	</a>
-    <p><em>Figure 2 - Salvare Search Web App Client/Database Dashboard Screenshot - CS-340 Client/Server Development</em></p>
+    <p><em>Figure 2 - Salvare Web App with Search Algorithm Enhancement - CS-340 Client/Server Development</em></p>
 </div>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -56,7 +56,7 @@ layout: default
     <a href="[https://github.com/DCodeMorris/ePortfolio/blob/main/assets/img/Salvare%20Screenshot%20Artifact%203.png)" target="_blank">
 		<img src="assets/img/Salvare Screenshot Artifact 3.png" width="720px" title="Salvare Application Screenshot" />
 	</a>
-    <p><em>Figure 3 - OpenGL ZigZag Chair - CS-340 Client/Server Development</em></p>
+    <p><em>Figure 3 - Salvare Search with Database Enhancement - CS-340 Client/Server Development</em></p>
 </div>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
