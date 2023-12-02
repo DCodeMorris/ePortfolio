@@ -2,7 +2,7 @@
 layout: default
 ---
 
-#**Artifact_2.py**#
+# **Artifact_2.py** #
 
 ```python
 import re  # needed for the regex pattern matching
@@ -214,7 +214,7 @@ if __name__ == '__main__':
     app.run_server(mode='jupyterlab', port=8090, dev_tools_ui=True, dev_tools_hot_reload=True, threaded=True)
 ```
 
-#**AnimalShelter_CRUD.py**#
+# **AnimalShelter_CRUD.py** #
 
 ```python
 from pymongo import MongoClient
