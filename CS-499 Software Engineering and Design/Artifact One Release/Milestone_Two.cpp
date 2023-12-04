@@ -7,6 +7,7 @@
 # Description: Using C++ to transform 2-D object into 3-D object     
 # =============================================================================
 
+//Libraries and Header Files    
 #include <iostream>         // cout, cerr
 #include <cstdlib>          // EXIT_FAILURE
 #include <GL/glew.h>        // GLEW library
