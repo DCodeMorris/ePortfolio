@@ -1,3 +1,11 @@
+# **Milestone_Two.ccp** #
+
+```cpp
+# =============================================================================
+# Created By  : Dustin Morris
+# File Name: Milestone_Two.cpp
+# =============================================================================
+
 #include <iostream>         // cout, cerr
 #include <cstdlib>          // EXIT_FAILURE
 #include <GL/glew.h>        // GLEW library
