@@ -27,8 +27,10 @@ print('Password: ' + __password__)
 print('Description: ' + __description__)
 print('# ' + '=' * 78)
 
+# Imports app object from Application.py module.
 from Application import app
 from Authentication import authenticate_user, logout_user, get_current_user
 
+# Running Dash web server
 if __name__ == "__main__":
     app.run_server()
