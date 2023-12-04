@@ -154,7 +154,7 @@ app.layout = html.Div([
 ])
 
 
-# Callbacks
+# Callback for updating table results based on filtering
 @app.callback([Output('datatable-id', 'data'), Output('datatable-id', 'columns')],
               [Input('filter-type', 'value')])
 def update_dashboard(filter_type):
@@ -165,6 +165,7 @@ def update_dashboard(filter_type):
     return data, columns
 
 
+# Callback to update graph on dashboard
 @app.callback(
     Output('graph-id', "children"),
     [Input('datatable-id', "derived_virtual_data")])
