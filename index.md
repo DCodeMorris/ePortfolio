@@ -6,10 +6,10 @@ layout: default
  
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - **Artifact 1 Software Engineering and Design** \| [(View Narrative)](https://github.com/DCodeMorris/ePortfolio/blob/main/Narratives/20231120_Narrative_Software_Engineering_and_Design.pdf)
-  - [("Original Build Files")](https://github.com/DCodeMorris/ePortfolio/tree/main/CS-499%20Software%20Engineering%20and%20Design/Artifact%20One%20Original)
-  - [("Original Build Code")](./CS-499 Software Engineering and Design/Artifact One Original)
-  - [("Final Build Files")](https://github.com/DCodeMorris/ePortfolio/tree/main/CS-499%20Software%20Engineering%20and%20Design/Artifact%20One%20Release)
-  - [("Final Build Code")](./CS-499 Software Engineering and Design/Artifact One Release)
+  - [(Original Build Files)](https://github.com/DCodeMorris/ePortfolio/tree/main/CS-499%20Software%20Engineering%20and%20Design/Artifact%20One%20Original)
+  - [(Original Build Code)](./CS-499 Software Engineering and Design/Artifact One Original)
+  - [(Final Build Files)](https://github.com/DCodeMorris/ePortfolio/tree/main/CS-499%20Software%20Engineering%20and%20Design/Artifact%20One%20Release)
+  - [(Final Build Code)](./CS-499 Software Engineering and Design/Artifact One Release)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - **Artifact 2 Algorithms and Data Structures** \| [(View Narrative)](https://github.com/DCodeMorris/ePortfolio/blob/main/Narratives/20231120_Narrative_Algorithms_and_Data_Structures.pdf)
