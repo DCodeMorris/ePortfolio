@@ -4,6 +4,7 @@
 # =============================================================================
 # Created By  : Dustin Morris
 # File Name: Milestone_Two.ccp
+# Description: Using C++ to transform 2-D object into 3-D object     
 # =============================================================================
 
 #include <iostream>         // cout, cerr
