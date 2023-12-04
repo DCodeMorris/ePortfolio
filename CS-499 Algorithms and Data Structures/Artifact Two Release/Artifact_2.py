@@ -1,3 +1,35 @@
+# **AnimalShelter_CRUD.py** #
+
+```python
+# =============================================================================
+# Created By  : Dustin Morris
+# Created Date: Mon November 20 2023
+# =============================================================================
+# Interpreter: Python 3.12
+# File Name: AnimalShelter_CRUD.py
+# =============================================================================
+__course__ = 'CS499'
+__author__ = 'Dustin Morris'
+__version__ = '1.4'
+__maintainer__ = 'Dustin Morris'
+__username__ = 'MyUserAdmins2'
+__password__ = '123456'
+__email__ = 'Dustin.Morris1@snhu.edu'
+__status__ = 'Production'
+__description__ = 'Uses а Dаsh аррliсаtion to mаnаge user рet ԁаtа from аnimаl shelters.'
+# =============================================================================
+print('# ' + '=' * 78)
+print('Author: ' + __author__)
+print('Version: ' + __version__)
+print('Maintainer: ' + __maintainer__)
+print('Email: ' + __email__)
+print('Status: ' + __status__)
+print('Course: ' + __course__)
+print('Username: ' + __username__)
+print('Password: ' + __password__)
+print('Description: ' + __description__)
+print('# ' + '=' * 78)
+
 import re  # needed for the regex pattern matching
 
 from dash import dcc
@@ -201,7 +233,7 @@ def update_map(virtualRows):
                                       ])
             ]
 
-
+```
 # Run the app
 if __name__ == '__main__':
     app.run_server(mode='jupyterlab', port=8090, dev_tools_ui=True, dev_tools_hot_reload=True, threaded=True)
