@@ -5,6 +5,11 @@ layout: default
 # **Milestone_Two.cpp** #
 
 ```cpp
+# =============================================================================
+# Created By  : Dustin Morris
+# File Name: Milestone_Two.ccp
+# =============================================================================
+
 #include <iostream>         // cout, cerr
 #include <cstdlib>          // EXIT_FAILURE
 #include <GL/glew.h>        // GLEW library
