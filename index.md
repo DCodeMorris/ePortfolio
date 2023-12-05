@@ -3,6 +3,22 @@ layout: default
 ---
 
 # **Professional Self-Assessment** #
+Here is where I will input my self-assessment
+Here is where I will input my self-assessment
+Here is where I will input my self-assessment
+Here is where I will input my self-assessment
+Here is where I will input my self-assessment
+Here is where I will input my self-assessment
+Here is where I will input my self-assessment
+Here is where I will input my self-assessment
+Here is where I will input my self-assessment
+Here is where I will input my self-assessment
+Here is where I will input my self-assessment
+Here is where I will input my self-assessment
+Here is where I will input my self-assessment
+Here is where I will input my self-assessment
+Here is where I will input my self-assessment
+
  
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - **Artifact 1 Software Engineering and Design** \| [(View Narrative)](https://github.com/DCodeMorris/ePortfolio/blob/main/Narratives/20231120_Narrative_Software_Engineering_and_Design.pdf)
