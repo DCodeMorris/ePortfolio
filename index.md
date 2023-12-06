@@ -23,7 +23,7 @@ Here is where I will input my self-assessment
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
-## **Artifact 1 Software Engineering and Design** \| [(View Narrative)](https://github.com/DCodeMorris/ePortfolio/blob/main/Narratives/20231120_Narrative_Software_Engineering_and_Design.pdf)
+## **Artifact 1 Software Engineering and Design**
 ### Introduction:
 
 The artifact I have chosen for Enhancement One: Software Design and Engineering is a 2D rendering vector of triangles. I designed and built the 2D rendering using Visual Studio, an integrated development environment (IDE). To create the 2D rendering using this environment, I incorporated OpenGL, an application programming interface (API). OpenGL requires a programming language to operate; I have chosen to use my language of choice, C++.  
@@ -32,10 +32,12 @@ My artifact was created during CS-330 Computer Graphics and Visualization class,
 
 I showcase an impressive amount of my abilities using C++ programming language with the OpenGL API. To enhance this artifact, I transformed my rendering of a 2D object into a 3D pyramid, and I did this because as time goes on, we are introduced with new technology and more powerful hardware that really push graphics to new levels, and when this happens, the desire for realism increases.
 
-  - [(Original Build Files)](https://github.com/DCodeMorris/ePortfolio/tree/main/CS-499%20Software%20Engineering%20and%20Design/Artifact%20One%20Original)
-  - [(Original Build Code)](./CS-499 Software Engineering and Design/Artifact One Original)
-  - [(Final Build Files)](https://github.com/DCodeMorris/ePortfolio/tree/main/CS-499%20Software%20Engineering%20and%20Design/Artifact%20One%20Release)
-  - [(Final Build Code)](./CS-499 Software Engineering and Design/Artifact One Release)
+**Click here to view the full narrative** \| [(View Narrative)](https://github.com/DCodeMorris/ePortfolio/blob/main/Narratives/20231120_Narrative_Software_Engineering_and_Design.pdf)
+
+  - [Original Build Files](https://github.com/DCodeMorris/ePortfolio/tree/main/CS-499%20Software%20Engineering%20and%20Design/Artifact%20One%20Original) (View the directory containing the original .cpp, and project files.)
+  - [Original Build Code](./CS-499 Software Engineering and Design/Artifact One Original) (View the original C++ code directly here.)
+  - [Final Build Files](https://github.com/DCodeMorris/ePortfolio/tree/main/CS-499%20Software%20Engineering%20and%20Design/Artifact%20One%20Release) (View the directory containing the final .cpp and project files.)
+  - [Final Build Code](./CS-499 Software Engineering and Design/Artifact One Release) View the final builds C++ code directly here.)
   <br><br>
 <div style="text-align: center;">
     <a href="https://github.com/DCodeMorris/ePortfolio/blob/main/assets/img/Pyramid%20Screenshot%20Artifact%201.png" target="_blank">
