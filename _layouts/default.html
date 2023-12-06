@@ -18,7 +18,7 @@
   </head>
   <body>
     <div class="wrapper">
-      <header {% unless site.description or site.github.project_tagline %} class="without-description" {% endunless %}>
+      <header {% unless site.description or site.github.project_tagline %} {% endunless %}>
         <h1>{{ site.title | ePortfolio }}</h1>
         {% if site.description or site.github.project_tagline %}
           <p>{{ site.description | by Dustin Morris }}</p>
