@@ -23,8 +23,7 @@ Here is where I will input my self-assessment
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
 ## **Artifact 1 Software Engineering and Design** \| [(View Narrative)](https://github.com/DCodeMorris/ePortfolio/blob/main/Narratives/20231120_Narrative_Software_Engineering_and_Design.pdf)
-# Introduction:
-# Enhancement One: Software Design and Engineering
+### Introduction:
 
 The artifact I have chosen for Enhancement One: Software Design and Engineering is a 2D rendering vector of triangles. I designed and built the 2D rendering using Visual Studio, an integrated development environment (IDE). To create the 2D rendering using this environment, I incorporated OpenGL, an application programming interface (API). OpenGL requires a programming language to operate; I have chosen to use my language of choice, C++.  
 
