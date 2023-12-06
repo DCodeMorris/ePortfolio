@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## **Professional Self-Assessment** ##
+## **Professional Self-Assessment**
 <p>Here is where I will input my self-assessment
 Here is where I will input my self-assessment
 Here is where I will input my self-assessment
@@ -22,11 +22,15 @@ Here is where I will input my self-assessment
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
-## **Artifact 1 Software Engineering and Design** ## \| [(View Narrative)](https://github.com/DCodeMorris/ePortfolio/blob/main/Narratives/20231120_Narrative_Software_Engineering_and_Design.pdf)
-<h3>Introduction Summary:</h3>
-<p>The artifact I have chosen for Enhancement One: Software Design and Engineering is a 2D rendering vector of triangles.  I designed and built the 2D rendering using Visual Studio an integrated development environment (IDE).  To create the 2D rendering using this environment I incorporated OpenGL, an application programming interface (API). OpenGL requires a programming language to operate, I have chosen to use my language of choice, C++.  My artifact was created during CS-330 Computer Graphics and Visualization class which took place in May of 2022 during my 22EW5 term at SNHU.
-I determined this was the best project to enhance because I know OpenGL is a widely used API that has been around for a long time and is still used in top businesses and supported by current hardware.  With most of the world still using OpenGL, I will have a larger pool of opportunities with my knowledge and skills I provide enhancing my artifact.  I showcase an impressive amount of my abilities using C++ programming language with the OpenGL API.  To enhance this artifact, I transformed my rendering of a 2D object into a 3D pyramid and I did this because as time goes on, we are introduced with new technology and more powerful hardware that really push graphics to new levels and when this happens the desire for realism increases.
-</p>
+## **Artifact 1 Software Engineering and Design** \| [(View Narrative)](https://github.com/DCodeMorris/ePortfolio/blob/main/Narratives/20231120_Narrative_Software_Engineering_and_Design.pdf)
+# Introduction:
+
+    The artifact I have chosen for Enhancement One: Software Design and Engineering is a 2D rendering vector of triangles. I designed and built the 2D rendering using Visual Studio, an integrated development environment (IDE). To create the 2D rendering using this environment, I incorporated OpenGL, an application programming interface (API). OpenGL requires a programming language to operate; I have chosen to use my language of choice, C++.
+
+    My artifact was created during CS-330 Computer Graphics and Visualization class, which took place in May of 2022 during my 22EW5 term at SNHU. I determined this was the best project to enhance because I know OpenGL is a widely used API that has been around for a long time and is still used in top businesses and supported by current hardware. With most of the world still using OpenGL, I will have a larger pool of opportunities with my knowledge and skills, enhancing my artifact.
+
+    I showcase an impressive amount of my abilities using C++ programming language with the OpenGL API. To enhance this artifact, I transformed my rendering of a 2D object into a 3D pyramid, and I did this because as time goes on, we are introduced with new technology and more powerful hardware that really push graphics to new levels, and when this happens, the desire for realism increases.
+
   - [(Original Build Files)](https://github.com/DCodeMorris/ePortfolio/tree/main/CS-499%20Software%20Engineering%20and%20Design/Artifact%20One%20Original)
   - [(Original Build Code)](./CS-499 Software Engineering and Design/Artifact One Original)
   - [(Final Build Files)](https://github.com/DCodeMorris/ePortfolio/tree/main/CS-499%20Software%20Engineering%20and%20Design/Artifact%20One%20Release)
