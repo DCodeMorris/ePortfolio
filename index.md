@@ -37,7 +37,7 @@ I showcase an impressive amount of my abilities using C++ programming language w
   - [Original Build Files](https://github.com/DCodeMorris/ePortfolio/tree/main/CS-499%20Software%20Engineering%20and%20Design/Artifact%20One%20Original) (View the directory containing the original .cpp, and project files.)
   - [Original Build Code](./CS-499 Software Engineering and Design/Artifact One Original) (View the original C++ code directly here.)
   - [Final Build Files](https://github.com/DCodeMorris/ePortfolio/tree/main/CS-499%20Software%20Engineering%20and%20Design/Artifact%20One%20Release) (View the directory containing the final .cpp and project files.)
-  - [Final Build Code](./CS-499 Software Engineering and Design/Artifact One Release) View the final builds C++ code directly here.)
+  - [Final Build Code](./CS-499 Software Engineering and Design/Artifact One Release) (View the final builds C++ code directly here.)
   <br><br>
 <div style="text-align: center;">
     <a href="https://github.com/DCodeMorris/ePortfolio/blob/main/assets/img/Pyramid%20Screenshot%20Artifact%201.png" target="_blank">
@@ -47,11 +47,19 @@ I showcase an impressive amount of my abilities using C++ programming language w
 </div>
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-- **Artifact 2 Algorithms and Data Structures** \| [(View Narrative)](https://github.com/DCodeMorris/ePortfolio/blob/main/Narratives/20231120_Narrative_Algorithms_and_Data_Structures.pdf)
-  - [(Original Build Files)](https://github.com/DCodeMorris/ePortfolio/tree/main/CS-499%20Algorithms%20and%20Data%20Structures/Artifact%20Two%20Original)
-  - [(Original Build Code)](./CS-499 Algorithms and Data Structures/Artifact Two Original)
-  - [(Final Build Files)](https://github.com/DCodeMorris/ePortfolio/tree/main/CS-499%20Algorithms%20and%20Data%20Structures/Artifact%20Two%20Release)
-  - [(Final Build Code)](./CS-499 Algorithms and Data Structures/Artifact Two Release)
+## **Artifact 2 Algorithms and Data Structures**
+### Introduction:
+
+The artifact I have chosen for Enhancement Two: Algorithms and Data Structure is enhancing the search algorithm of my Python application that handles data about pets in animal shelters.  To enhance the search algorithm, I utilized the development environment PyCharm.  My application is written using Python, which is a high-level programming language.  I decided to use this application due to its large number of algorithms and programming logic already created.  I originally created this application during the 22EW4 term in class CS-340 Client/Server Development.
+
+I determined this was the best project to enhance stemmed from how popular Python’s programming language is, ranking as the 4th most popular language according to a 2021 Overflow survey.  Python’s widespread use in web and game development, areas where I excel.  Along with its prevalence in emerging fields like machine learning and artificial intelligence (AI) solidified my decision.  With the recent influx of AI and machine learning happening around the world, joining a team in either domain could have potential contributions to groundbreaking innovations in the future.
+
+**Click here to view the full narrative** \| [(View Narrative)](https://github.com/DCodeMorris/ePortfolio/blob/main/Narratives/20231120_Narrative_Algorithms_and_Data_Structures.pdf)
+
+  - [Original Build Files](https://github.com/DCodeMorris/ePortfolio/tree/main/CS-499%20Algorithms%20and%20Data%20Structures/Artifact%20Two%20Original) (View the directory containing the original Python project files.)
+  - [Original Build Code](./CS-499 Algorithms and Data Structures/Artifact Two Original) (View the original Python code directly here.)
+  - [Final Build Files](https://github.com/DCodeMorris/ePortfolio/tree/main/CS-499%20Algorithms%20and%20Data%20Structures/Artifact%20Two%20Release) (View the directory containing the final Python project files.)
+  - [Final Build Code](./CS-499 Algorithms and Data Structures/Artifact Two Release) (View the final builds Python code directly.)
 
 <div style="text-align: center;">
     <a href="https://github.com/DCodeMorris/ePortfolio/blob/main/assets/img/Salvare%20Screenshot%20Artifact%202.png" target="_blank">
@@ -61,11 +69,17 @@ I showcase an impressive amount of my abilities using C++ programming language w
 </div>
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-- **Artifact 3 Databases** \| [(View Narrative)](https://github.com/DCodeMorris/ePortfolio/blob/main/Narratives/20231120_Narrative_Databases_Morris.pdf)
-  - [(Original Build Files)](https://github.com/DCodeMorris/ePortfolio/tree/main/CS-499%20Databases/Artifact%20Three%20Original)
-  - [(Original Build Code)](./CS-499 Databases/Artifact Three Original)
-  - [(Final Build Files)](https://github.com/DCodeMorris/ePortfolio/tree/main/CS-499%20Databases/Artifact%20Three%20Release)
-  - [(Final Build Code)](./CS-499 Databases/Artifact Three Release)
+## **Artifact 3 Databases**
+### Introduction:
+
+The artifact for Enhancement Three: Databases is a Python application designed to create a web interface using the Dash web app framework and integrating Dash Component modules for displaying animal data from animal shelters, including results that are filtered based on user criteria.  This application was developed during my CS-340 Client/Server Development course in the 22EW4 term.  These applications originated in my second artifact, where I developed an enhanced search algorithm.  Choosing PyCharm as my development environment (IDE) and using the Python programming language, I designed and developed a useful enhancement to this application, I accomplished this by implementing an additional collection, “users” into my database to handle user accounts. My goal is to align my work with all-course outcomes related to databases.
+
+**Click here to view the full narrative** \| [(View Narrative)](https://github.com/DCodeMorris/ePortfolio/blob/main/Narratives/20231120_Narrative_Databases_Morris.pdf)
+
+  - [Original Build Files](https://github.com/DCodeMorris/ePortfolio/tree/main/CS-499%20Databases/Artifact%20Three%20Original) (View the directory containing the original Python project files.)
+  - [Original Build Code](./CS-499 Databases/Artifact Three Original) (View the original Python code directly here.)
+  - [Final Build Files](https://github.com/DCodeMorris/ePortfolio/tree/main/CS-499%20Databases/Artifact%20Three%20Release) (View the directory containing the final Python project files.)
+  - [Final Build Code](./CS-499 Databases/Artifact Three Release) (View the final builds Python code directly.)
 
 <div style="text-align: center;">
     <a href="https://github.com/DCodeMorris/ePortfolio/blob/main/assets/img/Salvare%20Screenshot%20Artifact%203.png" target="_blank">
