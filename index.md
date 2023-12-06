@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## **Professional Self-Assessment**
-<p>Here is where I will input my self-assessment
+
 Here is where I will input my self-assessment
 Here is where I will input my self-assessment
 Here is where I will input my self-assessment
@@ -18,7 +18,8 @@ Here is where I will input my self-assessment
 Here is where I will input my self-assessment
 Here is where I will input my self-assessment
 Here is where I will input my self-assessment
-</p>
+Here is where I will input my self-assessment
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
