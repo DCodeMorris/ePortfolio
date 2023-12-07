@@ -4,21 +4,11 @@ layout: default
 
 ## **Professional Self-Assessment**
 
-Here is where I will input my self-assessment
-Here is where I will input my self-assessment
-Here is where I will input my self-assessment
-Here is where I will input my self-assessment
-Here is where I will input my self-assessment
-Here is where I will input my self-assessment
-Here is where I will input my self-assessment
-Here is where I will input my self-assessment
-Here is where I will input my self-assessment
-Here is where I will input my self-assessment
-Here is where I will input my self-assessment
-Here is where I will input my self-assessment
-Here is where I will input my self-assessment
-Here is where I will input my self-assessment
-Here is where I will input my self-assessment
+I have acquired a large amount of knowledge since I started my journey in the Computer Science program in November of 2018. The additional confidence I gained allows me to continue excelling in the computer science field. This ePortfolio serves as an incentive to illustrate my competency and mastery of my professional goals to develop a successful career in computer science.
+
+I took GAM-305 Digital Game Development as an elective to further my knowledge and skills of collaborating in a team environment. The successful outcome from this course granted me the ability to leverage strengths between team members to assign roles and navigate challenges. I had 5 team members and 5 positions, and each member excelled in the position they had taken. I gained communication skills, I learned how to compromise and be a leader, which plays a large role in a professional workplace.
+
+Portions of these skills came from assisting members in all positions throughout the project. I incorporated sprints to assist with any issues and developed a plan of action. My ability to collaborate in a team environment provided me with successful results in my course.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
