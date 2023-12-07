@@ -27,6 +27,14 @@ Security is a practice I always have in mind from the moment I start a project, 
   - I Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals
   - I Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## **Informal Code Review**
+### Overview:
+Code reviews are very important PLACEHOLDER TO BE FINISHED
+
+<iframe align="center" width="900" height="480" src="https://www.youtube.com/embed/Blk_gB-TfTo?si=QWKd_WiVbFxKIn3d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
 ## **Artifact 1 Software Engineering and Design**
@@ -128,6 +136,3 @@ I also meet the outcome for employing strategies for building collaborative envi
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-# **Informal Code Review** #
-<iframe align="center" width="900" height="480" src="https://www.youtube.com/embed/Blk_gB-TfTo?si=QWKd_WiVbFxKIn3d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
