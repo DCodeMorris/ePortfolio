@@ -45,6 +45,17 @@ I showcase an impressive amount of my abilities using C++ programming language w
 	</a>
     <p><em>Figure 1 - OpenGL 3-D Pyramid - CS-330 Computer Graphics and Visualization</em></p>
 </div>
+
+### Conclusion:
+
+From this artifact’s original state of a 2D object to the enhanced and improved 3D pyramid, I have showcased my knowledge and skills outlined in the course outcomes where I designed and evaluated computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices. This outcome falls under the algorithm section where I had to determine lighting calculations by calculating a surface normal. The outcome also falls under data structures as the data stored, for example, vectors; the algorithms will use that vector data structure to solve which coordinate to use to position light in the correct direction.
+
+The second course outcome I aligned with was achieved by demonstrating an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals. These are demonstrated with software engineering and design by my ability to follow programming standards in C++ and provide lines of clean and clear code that are commented and error-free and easily readable by another programmer.
+
+As I was creating my artifact, I learned a large amount about C++ and OpenGL that I was unaware of. I learned how to take advantage of the libraries I can include in my code to use callback functions, texture wrapping, and being able to set up camera variables and learning how to use processInput to use inputs from a keyboard. My C++ knowledge is stronger, and I am confident using algorithms that I have in place and using arrays of vertices. I have gained knowledge with using vertex buffer objects to manage large amounts of stored vertices; this is important as it can control efficiency.
+
+I did run into some challenging areas when working with the shaders and buffers, as they are not easy to debug and you’re given an empty screen that opens and immediately closes. I was able to overcome this challenge by correcting my ins and outs. I challenged myself with choosing to enhance this artifact pertaining to Software Design and Engineering, and it has given me a large amount of pride and confidence in my growing ability to succeed and gain knowledge in the Computer Science fields today.
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## **Artifact 2 Algorithms and Data Structures**
@@ -67,6 +78,17 @@ I determined this was the best project to enhance stemmed from how popular Pytho
 	</a>
     <p><em>Figure 2 - Salvare Web App with Search Algorithm Enhancement - CS-340 Client/Server Development</em></p>
 </div>
+
+### Conclusion:
+
+I have showcased my knowledge and skills where I design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices (data structures and algorithms). This outcome is met by my use of regex patterns in `create_regex_pattern’. It showcases my understanding of algorithmic principles to create efficient and flexible search algorithms. The use of the dictionary I used (`filter_criteria`) that manages filter criteria demonstrates my understanding of computer science practices, which aligns with the concept of using data structures to manage and organize data systematically. I centralized filter criteria in a dictionary that reduces redundancy, making the core more maintainable, which involves a trade-off between upfront organization and long-term maintainability. I manage the design trade-offs by consolidating logic, implementing regex patterns, and organizing filter criteria centrally. This provides a more readable, efficient, and modular solution while addressing the challenges present in my original code.
+
+My code enhancements and this narrative align with this course outcome. It demonstrates my ability to apply algorithmic principles, adhere to computer science practices, and manage trade-offs in my design choices, showcasing an understanding of said concepts.
+
+Additionally, I showcase where I design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts. This outcome is met by my coherence in communication, providing a structured narrative that follows logical flow by first introducing the enhancement project and discussing the rationale behind my choice of the Python application, while providing the enhancements made to the code which allows readers to follow my progression. The clear explanations of my code enhancements demonstrate my strong knowledge of technical concepts. Providing code snippets explaining the purpose and impact of each enhancement, combining this with the feedback received to include inline comments and header sections add clarity to readers which demonstrates a professional approach to code documentation. I include reflective elements where I discuss my decisions and acknowledge opportunities for optimization and highlight the successful outcomes. The code snippets add visual communication to further contribute to the clarity of my communication.
+
+In closing, the enhancements I made to the Python application for managing pet data in animal shelters represent a large step in the right direction in terms of efficiency, flexibility, and readability. When I restructured the code within PyCharm, optimized the functions in the data structure and I improved the search algorithm. Centralizing the filter criteria with a dictionary with the use of regex patterns, I streamlined the logic of the code and gave it a more maintainable and modular solution. This shows I have a strong foundation in algorithmic principles and computer science practices, not only addressed in my challenges in the original code but shows my ability to understand choices in design including trade-offs. With these enhancements to my artifact, I provide an optimized, modular, and readable application.
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## **Artifact 3 Databases**
@@ -87,6 +109,17 @@ The artifact for Enhancement Three: Databases is a Python application designed t
 	</a>
     <p><em>Figure 3 - Salvare Search with Database Enhancement - CS-340 Client/Server Development</em></p>
 </div>
+
+### Conclusion:
+
+I have showcased my knowledge and skills, meeting the outcomes of the course by demonstrating an ability to use well-founded and innovative techniques, skills, and tools in computing practices to implement computer solutions that deliver value and accomplish industry-specific goals (software engineering/design/database).
+
+I meet this outcome by using external tools and libraries, in my case `passlib`, for password hashing which exhibits my knowledge and understanding of how to utilize third-party tools. I highlight my strong abilities utilizing MongoDB by creating a collection for storing new user data. I enhanced functionality by adding button components for ‘Login’ and ‘Register,’ further expanding my dashboard. The logic for my new components provides a deeper understanding of application behavior and user interactions. I demonstrate good coding practices by using separate authentication-related functions in `auth.py`. I showcase problem-solving skills by preventing duplicate usernames during registration.
+
+I developed a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources. I achieved this outcome by implementing password hashing that creates a secure password storage function before adding it to the database, protecting user credentials. My authentication system includes checks for duplicate usernames. The passwords are validated against the stored hashed passwords in the database, stopping unauthorized access. I included a limited access feature only allowing registered users to have access to the “Add Animal” button component to prevent misuse that could overload the animal data with unrelated information. I showcase my ability to develop a security mindset in both aspects of design and implementation. I created measures to stop unauthorized access and protect user data to ensure the privacy and security of my application.
+
+I also meet the outcome for employing strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science. The security measures I used provide privacy and security which would help users feel confident and protected in sharing data within my application, which is needed for organizational decision-making processes. I implemented the option to run the application from different machines on the same network showing the option to expand my application to be used by a greater range of users.
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
