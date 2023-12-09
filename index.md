@@ -40,6 +40,8 @@ Security is a practice I always have in mind from the moment I start a project, 
   - I Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals
   - I Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources
 
+For a complete summary on how I achieved meeting these outcomes [(Click Here)](https://github.com/DCodeMorris/ePortfolio/blob/main/Narratives/20231202_Course_Outcomes_Morris.pdf)
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## **Informal Code Review**
