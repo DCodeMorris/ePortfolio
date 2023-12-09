@@ -10,13 +10,12 @@ layout: default
 # File Name: Source.ccp
 # =============================================================================
 
-
-﻿#include <iostream>         // cout, cerr
 #include <cstdlib>          // EXIT_FAILURE
 #include <GL/glew.h>        // GLEW library
 #include <GLFW/glfw3.h>     // GLFW library
 #define STB_IMAGE_IMPLEMENTATION
 #include <stb_image.h>      // Image loading Utility functions
+﻿#include <iostream>         // cout, cerr
 
 // GLM Math Header inclusions
 #include <glm/glm.hpp>
