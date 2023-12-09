@@ -69,7 +69,7 @@ The artifact I have chosen for Enhancement One: Software Design and Engineering 
 </p>
 
 <p style="text-indent: 55px;">
-My artifact was created during CS-330 Computer Graphics and Visualization class, which took place in May of 2022 during my 22EW5 term at SNHU. I determined this was the best project to enhance because I know OpenGL is a widely used API that has been around for a long time and is still used in top businesses and supported by current hardware. With most of the world still using OpenGL, I will have a larger pool of opportunities with my knowledge and skills, enhancing my artifact.  
+My artifact was created during CS-330 Computer Graphics and Visualization class, which took place in May of 2022 during my 22EW5 term at SNHU. I determined this was the best project to enhance due to OpenGL being a widely utilized API that has been around for a long time and is still used in top businesses and supported by current hardware. With most of the world still using OpenGL, I will have a larger pool of opportunities with my knowledge and skills, enhancing my artifact.  
 </p>
 
 <p style="text-indent: 55px;">
