@@ -3,8 +3,8 @@ layout: default
 ---
 
 # **Milestone_Two.cpp** #
-
 ```cpp
+
 # =============================================================================
 # Created By  : Dustin Morris
 # File Name: Milestone_Two.ccp
@@ -670,5 +670,5 @@ void UDestroyTexture(GLuint textureId)
 	glGenTextures(1, &textureId);
 }
 
-
+```
 [back](./)
