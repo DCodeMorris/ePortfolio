@@ -176,7 +176,7 @@ I have showcased my knowledge and skills, meeting the outcomes of the course by 
 </p>
 
 <p style="text-indent: 55px;">
-I meet this outcome by using external tools and libraries, in my case  <strong><code>`auth.py`</code></strong> , for password hashing which exhibits my knowledge and understanding of how to utilize third-party tools. I highlight my strong abilities utilizing MongoDB by creating a collection for storing new user data. I enhanced functionality by adding button components for <strong><code>`Login`</code></strong> and <strong><code>`Register`</code></strong>, further expanding my dashboard. The logic for my new components provides a deeper understanding of application behavior and user interactions. I demonstrate good coding practices by using separate authentication-related functions in <strong><code>`auth.py\`. I showcase problem-solving skills by preventing duplicate usernames during registration.
+I meet this outcome by using external tools and libraries, in my case  <strong><code>`auth.py`</code></strong> , for password hashing which exhibits my knowledge and understanding of how to utilize third-party tools. I highlight my strong abilities utilizing MongoDB by creating a collection for storing new user data. I enhanced functionality by adding button components for <strong><code>`Login`</code></strong> and <strong><code>`Register`</code></strong>, further expanding my dashboard. The logic for my new components provides a deeper understanding of application behavior and user interactions. I demonstrate good coding practices by using separate authentication-related functions in <strong><code>`auth.py`. I showcase problem-solving skills by preventing duplicate usernames during registration.
 </p>
 
 <p style="text-indent: 55px;">
