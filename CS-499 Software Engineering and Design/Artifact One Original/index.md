@@ -7,8 +7,7 @@ layout: default
 ```cpp
 # =============================================================================
 # Created By  : Dustin Morris
-# File Name: Milestone_Two.ccp
-# Description: Using C++ to transform 2-D object into 3-D object     
+# File Name: Source.ccp    
 # =============================================================================
 
 //Libraries and Header Files    
