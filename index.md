@@ -44,6 +44,7 @@ Security is a practice I always have in mind from the moment I start a project, 
 
 ## **Informal Code Review**
 ### Overview:
+
 <p style="text-indent: 55px;">
 My code review video contains all three artifacts. I analyze each artifact separately for errors, vulnerabilities, and weaknesses. I narrate my plans for improvements/enhancements during the walkthrough of each artifact. In software design and engineering, I use Visual Studio to showcase the C++ code of my original artifact to explain my planned enhancement. In algorithms and data structures, and databases, I showcase my original code in PyCharm using Python to explain my planned enhancement; these cover both artifact two and three. Throughout my videos, I provide professional-quality oral, written, and visual communication techniques to effectively explain a code review through collaborative environments that are coherent, technically sound, and appropriately adapted to specific audiences. The basis of my code review focuses on three critical elements:
 </p>
