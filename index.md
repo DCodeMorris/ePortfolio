@@ -5,18 +5,29 @@ layout: default
 ## **Professional Self-Assessment**
 
 <p style="text-indent: 20px;">
-<p style="text-indent: 20px;"> I have acquired a large amount of knowledge since I started my journey in the Computer Science program in November of 2018. The additional confidence I gained allows me to continue excelling in the computer science field. This ePortfolio serves as an incentive to illustrate my competency and mastery of my professional goals to develop a successful career in computer science. In completing my journey, I will pursue a career in Cybersecurity, a field closely associated with computer science as a top option. While reviewing my skills and abilities throughout my provided technical artifacts, I show I have a strong foundation in computer science with heightened knowledge of importance for security that powers my drive for becoming a Cybersecurity professional.
+	
+I have acquired a large amount of knowledge since I started my journey in the Computer Science program in November of 2018. The additional confidence I gained allows me to continue excelling in the computer science field. This ePortfolio serves as an incentive to illustrate my competency and mastery of my professional goals to develop a successful career in computer science. In completing my journey, I will pursue a career in Cybersecurity, a field closely associated with computer science as a top option. While reviewing my skills and abilities throughout my provided technical artifacts, I show I have a strong foundation in computer science with heightened knowledge of importance for security that powers my drive for becoming a Cybersecurity professional.
 </p>
 
+<p style="text-indent: 20px;">
 I took GAM-305 Digital Game Development as an elective to further my knowledge and skills of collaborating in a team environment. The successful outcome from this course granted me the ability to leverage strengths between team members to assign roles and navigate challenges. I had 5 team members and 5 positions, and each member excelled in the position they had taken. I gained communication skills, learned how to compromise and be a leader, which plays a large role in a professional workplace. Portions of these skills came from assisting members in all positions throughout the project. I incorporated sprints to assist with any issues and developed a plan of action. My ability to collaborate in a team environment provided me with successful results in my course.
+</p>
 
+<p style="text-indent: 20px;">
 My acquired knowledge of communicating in a team environment taught me the importance of communication with stakeholders. Throughout my 5 years, I took multiple classes where the final project was based on real-life scenarios. It was a company with a list of requirements and goals with a descriptive background. Communication with stakeholders provided a better understanding of requirements and business goals, and it also built trust. With this skill, I was able to deliver a quality product that meets all the expectations of the company's goals. This leads me to success in the product management and development fields.
+</p>
 
+<p style="text-indent: 20px;">
 Data structures and algorithms were the groundwork for my path to programming. Looking past the artifacts I narrate in my portfolio, I have supplied algorithms to support problems faced in my day-to-day life. I have designed and developed Python applications to organize income and bills, improving these with enhanced search algorithms which improved its efficiency and performance. I showcase the skills and knowledge to optimize and enhance search algorithms fluently to make applications run far more superior in detail in my code review and narratives.
+</p>
 
+<p style="text-indent: 20px;">
 My software engineering and database management skills are showcased in all my artifacts. The 3D triangle application I developed in OpenGL shows my abilities using software engineering principles and best practices to create a complete and accurate application, transforming simple 2D objects into interactive 3D shapes. My Python applications highlight my skills and knowledge in database management, including the integrity of supplied or created data.
+</p>
 
+<p style="text-indent: 20px;">
 Security is a practice I always have in mind from the moment I start a project, to after I finish it. I make sure sensitive information is protected and not only in my work but also in my day-to-day life. In artifact three I showcase additional security enhancements that far exceed the requirements of my project to showcase the importance of security I hold. In my narrative for artifact three you will understand and visualize my abilities and knowledge and commitment to security with implementing password hashing, authentication, limited access options.
+</p>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
