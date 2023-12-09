@@ -26,7 +26,7 @@ My software engineering and database management skills are showcased in all my a
 </p>
 
 <p style="text-indent: 55px;">
-Security is the main focus in the forefront of all new projects and implemented throughout the projects entirety. I ensure sensitive information is protected and not only in my work but also in my day-to-day life. In artifact three I showcase additional security enhancements that far exceed the requirements of my project to showcase the importance of security I hold. In my narrative for artifact three you will understand and visualize my abilities and knowledge and commitment to security with implementing password hashing, authentication, limited access options.
+Security is the main focus in the forefront of all new projects and implemented throughout the projects entirety. I ensure sensitive information is protected and not only in my work but also in my day-to-day life. In artifact three I showcase additional security enhancements that far exceed the requirements of my project to showcase the importance of security. In my narrative for artifact three you will understand and visualize my abilities and knowledge and commitment to security with implementing password hashing, authentication, limited access options.
 </p>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
