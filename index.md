@@ -64,7 +64,7 @@ My artifact was created during CS-330 Computer Graphics and Visualization class,
 </p>
 
 <p style="text-indent: 55px;">
-I showcase an impressive amount of my abilities using C++ programming language with the OpenGL API. To enhance this artifact, I transformed my rendering of a 2D object into a 3D pyramid, and I did this because as time goes on, we are introduced with new technology and more powerful hardware that really push graphics to new levels, and when this happens, the desire for realism increases.
+My use of the C++ programming language and OpenGL API demonstrates my impressive abilities. To enhance this artifact, I transformed my rendering of a 2D object into a 3D pyramid, as time goes on, we are introduced with new technology and more powerful hardware that really push graphics to new levels, and when this happens, the desire for realism increases.
 </p>
 
 **Click here to view the full narrative** \| [(View Narrative)](https://github.com/DCodeMorris/ePortfolio/blob/main/Narratives/20231120_Narrative_Software_Engineering_and_Design.pdf)
