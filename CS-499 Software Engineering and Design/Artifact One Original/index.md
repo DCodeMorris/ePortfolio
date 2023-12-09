@@ -7,15 +7,17 @@ layout: default
 ```cpp
 # =============================================================================
 # Created By  : Dustin Morris
-# File Name: Source.ccp
+# File Name: Milestone_Two.ccp
+# Description: Using C++ to transform 2-D object into 3-D object     
 # =============================================================================
 
+//Libraries and Header Files    
+#include <iostream>         // cout, cerr
 #include <cstdlib>          // EXIT_FAILURE
 #include <GL/glew.h>        // GLEW library
 #include <GLFW/glfw3.h>     // GLFW library
 #define STB_IMAGE_IMPLEMENTATION
 #include <stb_image.h>      // Image loading Utility functions
-﻿#include <iostream>         // cout, cerr
 
 // GLM Math Header inclusions
 #include <glm/glm.hpp>
