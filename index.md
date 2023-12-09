@@ -10,7 +10,7 @@ I have acquired a large amount of knowledge since I started my journey in the Co
 </p>
 
 <p style="text-indent: 55px;">
-I took GAM-305 Digital Game Development as an elective to further my knowledge and skills of collaborating in a team environment. The successful outcome from this course granted me the ability to leverage strengths between team members, to assign roles, and navigate challenges. I had 5 team members and 5 positions, and each member excelled in the position they had taken. I gained communication skills, learned how to compromise and be a leader, which plays a large role in a professional workplace. Portions of these skills came from assisting members in all positions throughout the project. I incorporated sprints to assist with any issues and developed a plan of action. My ability to collaborate in a team environment provided me with successful results in my course.
+I successfully completed GAM-305 Digital Game Development as an elective to further my knowledge and skills of collaborating in a team environment. The successful outcome from this course granted me the ability to leverage strengths between team members, to assign roles, and navigate challenges. I had 5 team members and 5 positions, and each member excelled in the position they had taken. I gained communication skills, learned how to compromise and be a leader, which plays a large role in a professional workplace. Portions of these skills came from assisting members in all positions throughout the project. I incorporated sprints to assist with any issues and developed a plan of action. My ability to collaborate in a team environment provided me with successful results in my course.
 </p>
 
 <p style="text-indent: 55px;">
@@ -26,7 +26,7 @@ My software engineering and database management skills are showcased in all my a
 </p>
 
 <p style="text-indent: 55px;">
-Security is a practice I always have in mind from the moment I start a project, to after I finish it. I make sure sensitive information is protected and not only in my work but also in my day-to-day life. In artifact three I showcase additional security enhancements that far exceed the requirements of my project to showcase the importance of security I hold. In my narrative for artifact three you will understand and visualize my abilities and knowledge and commitment to security with implementing password hashing, authentication, limited access options.
+Security is the main focus in the forefront of all new projects and implemented throughout the projects entirety. I ensure sensitive information is protected and not only in my work but also in my day-to-day life. In artifact three I showcase additional security enhancements that far exceed the requirements of my project to showcase the importance of security I hold. In my narrative for artifact three you will understand and visualize my abilities and knowledge and commitment to security with implementing password hashing, authentication, limited access options.
 </p>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
