@@ -1,4 +1,9 @@
-﻿#include <iostream>         // cout, cerr
+# =============================================================================
+# Created By  : Dustin Morris
+# File Name: Source.ccp
+# =============================================================================
+
+#include <iostream>         // cout, cerr
 #include <cstdlib>          // EXIT_FAILURE
 #include <GL/glew.h>        // GLEW library
 #include <GLFW/glfw3.h>     // GLFW library
