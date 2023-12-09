@@ -12,7 +12,7 @@ layout: default
 # Interpreter: Python 3.12
 # File Name: Artifact_2.py
 # =============================================================================
-__course__ = 'CS340'
+__course__ = 'CS499'
 __author__ = 'Dustin Morris'
 __version__ = '1.4'
 __maintainer__ = 'Dustin Morris'
@@ -252,7 +252,7 @@ if __name__ == '__main__':
 # Interpreter: Python 3.12
 # File Name: AnimalShelter_CRUD.py
 # =============================================================================
-__course__ = 'CS340'
+__course__ = 'CS499'
 __author__ = 'Dustin Morris'
 __version__ = '1.4'
 __maintainer__ = 'Dustin Morris'
