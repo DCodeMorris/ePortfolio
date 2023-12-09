@@ -2,14 +2,14 @@
 layout: default
 ---
 
-# **AnimalShelter.py** #
+# **app.ipynb** #
 
 ```python
 # =============================================================================
 # Created By  : Dustin Morris
 # =============================================================================
 # Interpreter: Python 3.12
-# File Name: AnimalShelter.py
+# File Name: app.ipynb
 # =============================================================================
 
 
@@ -20,188 +20,178 @@ import dash_leaflet as dl
 import dash_core_components as dcc
 import dash_html_components as html
 import plotly.express as px
-import dash_table as dt
-from dash.dependencies import Input, Output, State
+import dash_table
+from dash.dependencies import Input, Output
+from bson.json_util import dumps
 
-import os
 import numpy as np
 import pandas as pd
+import matplotlib.pyplot as plt
 from pymongo import MongoClient
-from bson.json_util import dumps
+
 
 #### FIX ME #####
 # change animal_shelter and AnimalShelter to match your CRUD Python module file name and class name
-from animal_shelter import AnimalShelter
-
-
+from shelter import AnimalShelter
 
 
 
 ###########################
 # Data Manipulation / Model
 ###########################
-# FIX ME change for your username and password and CRUD Python module name
-#username = "accuser"
-#password = "changeme"
+# FIX ME update with your username and password and CRUD Python module name
+
+username = "myUserAdmins2"
+password = "password"
 shelter = AnimalShelter(username, password)
 
 
-# class read method must support return of cursor object 
-df = pd.DataFrame.from_records(shelter.read({})
-
+# class read method must support return of cursor object and accept projection json input
+df = pd.DataFrame.from_records(shelter.read({}))
 
 
 #########################
 # Dashboard Layout / View
 #########################
+external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']                            
 app = JupyterDash('SimpleExample')
 
-#FIX ME Add in Grazioso Salvare’s logo
-image_filename = 'Grazioso_salvare_Logo.png' # replace with your own image
-encoded_image = base64.b64encode(open(image_filename, 'rb').read())
-
-#FIX ME Place the HTML image tag in the line below into the app.layout code according to your design
-#FIX ME Also remember to include a unique identifier such as your name or date
-html.Img(src='data:image/png;base64,{}'.format(encoded_image.decode()))
-
 app.layout = html.Div([
-    html.Div(id='hidden-div', style={'display':'none'}),
-    html.Center(html.B(html.H1('CS-340 Dustin Morris'))),
-    html.Hr(),
-    html.Img(id='customer-image',src='data:image/jpeg;base64,{}'.format(encoded_image.decode()),alt='customer image'),
-    html.Div(
-        
-#FIXME Add in code for the interactive filtering options. For example, Radio buttons, drop down, checkboxes, etc.
-
-
-    ),
-    html.Hr(),
-    dt.DataTable(
-        id='datatable-id',
-        columns=[
-            {"name": i, "id": i, "deletable": False, "selectable": True} for i in df.columns
+    dcc.RadioItems(
+        id='rd',
+        options=[
+            {'label': 'Water Rescue', 'value': 'Water Rescue'},
+            {'label': 'Mountain', 'value': 'Mountain or Wilderness Rescue'},
+            {'label': 'Disaster Rescue ', 'value': 'Disaster Rescue or Individual Tracking'},
+            {'label': 'Reset', 'value': 'Reset'}
         ],
-        data=df.to_dict('records'),
-#FIXME: Set up the features for your interactive data table to make it user-friendly for your client
-#If you completed the Module Six Assignment, you can copy in the code you created here 
-        page_size=10,
-        style_header={
-        'backgroundColor': 'rgb(230, 230, 230)',
-        'fontWeight': 'bold',
-        'text-transform': 'capitalize'
-        },
-        filter_action="native",
-        sort_mode="multi",
-        sort_action="native"
-        
+        value='Water Rescue',
+        labelStyle={'display': 'inline-block'}
     ),
-    html.Br(),
     html.Hr(),
-#This sets up the dashboard so that your chart and your geolocation chart are side-by-side
-    html.Div(className='row',
-         style={'display' : 'flex'},
-             children=[
-        html.Div(
-            id='graph-id',
-            className='col s12 m6',
-
-            ),
-        html.Div(
-            id='map-id',
-            className='col s12 m6',
-            )
-        ]),
-    
-    html.H1('Cameron Carr The Greatest to Ever do IT!!')
-])
-
-#############################################
-# Interaction Between Components / Controller
-#############################################
+    html.Div(id='dd-output-container', children = [
+            dash_table.DataTable(
+                id='datatable-id',
+                columns=[
+                    {"name": i, "id": i, "deletable": False, "selectable": True} for i in df.columns
+                ])]),
+    html.Hr(),
+    html.Div(id='map-id'),
+    html.Hr(),
+    html.Div(id='graph-id')
+    ])
 
 
 
-    
-@app.callback([Output('datatable-id','data'),
-               Output('datatable-id','columns')],
-              [Input('filter-type', 'value')])
-def update_dashboard(filter_type):
-### FIX ME Add code to filter interactive data table with MongoDB queries
-        
-        
-        columns=[{"name": i, "id": i, "deletable": False, "selectable": True} for i in df.columns]
-        data=df.to_dict('records')
-        
-        
-        return (data,columns)
-
-
-
-
+   
 @app.callback(
-    Output('datatable-id', 'style_data_conditional'),
-    [Input('datatable-id', 'selected_columns')]
-)
-def update_styles(selected_columns):
-    return [{
-        'if': { 'column_id': i },
-        'background_color': '#D2F3FF'
-    } for i in selected_columns]
-
-@app.callback(
-    Output('graph-id', "children"),
-    [Input('datatable-id', "derived_viewport_data")])
-def update_graphs(viewData):
-    dff = pd.DataFrame(rows)
-    return html.Div(
-        [
-            dcc.Graph(
-                id=column,
-                figure={
-                    "data": [
-                        {
-                            "x": dff["breed"],
-                            "y": dff[column] if column in dff else [],
-                            "type": "bar",
-                            "marker": {"color": "#0074D9"},
-                        }
-                    ],
-                    "layout": {
-                        "xaxis": {"automargin": True},
-                        "yaxis": {"automargin": True},
-                        "height": 250,
-                        "margin": {"t": 10, "l": 10, "r": 10},
-                    },
-                },
-            )
-            for column in ["breed", "animal_type", "date_of_birth"]
-        ]
+    dash.dependencies.Output('dd-output-container', 'children'),
+    [dash.dependencies.Input('rd', 'value')]
     )
+def update_output(value):
+    df = pd.DataFrame.from_records(shelter.read({}))
+    
+    if value == 'Water Rescue':
+        df = pd.DataFrame.from_records(shelter.read({'$or':[{"breed":"Labrador Retriever Mix"},
+                                                        {"breed":"Chesapeake Bay Retriever"},
+                                                        {"breed":"Newfoundland"}
+                                                       ],"age_upon_outcome_in_weeks":{'$gt':26,'$lt':156},
+                                                    "sex_upon_outcome":"Intact Female"}))
+    if value == 'Mountain or Wilderness Rescue':
+    
+        df = pd.DataFrame.from_records(shelter.read({'$or':[{"breed":"German Shepherd"},
+                                                        {"breed":"Alaskan Malamute"},
+                                                        {"breed":"Old English Sheepdog"},
+                                                        {"breed":"Siberian Husky"} ,
+                                                        {"breed":"Rottweiler"}  
+                                                       ],"age_upon_outcome_in_weeks":{'$gt':26,'$lt':156},
+                                                    "sex_upon_outcome":"Intact Male"}))
+    if value == 'Disaster Rescue or Individual Tracking':
+        df = pd.DataFrame.from_records(shelter.read({'$or':[{"breed":"German Shepherd"},
+                                                        {"breed":"Doberman Pinscher"},
+                                                        {"breed":"Golden Retriever"},
+                                                        {"breed":"Bloodhound"} ,
+                                                        {"breed":"Rottweiler"}  
+                                                       ],"age_upon_outcome_in_weeks":{'$gt':20,'$lt':300},
+                                                    "sex_upon_outcome":"Intact Male"}))
+        
+    return [
+            dash_table.DataTable(
+                id='datatable-id',
+                columns=[
+                    {"name": i, "id": i, "deletable": False, "selectable": True} for i in df.columns
+                ],
+                data=df.to_dict('records'),
+                editable=True,
+                style_cell={'textAlign': 'left'},
+                 style_cell_conditional=[
+                {
+                    'if': {'column_id': s},
+                    'textAlign': 'left'
+                } for s in ['animal_type','color','breed','animal_id']
+            ],
+            style_data_conditional=[
+                {
+                    'if': {'row_index': 'odd'},
+                    'backgroundColor': 'rgb(0, 128, 0)'
+                }
+            ],
+            style_header={
+                'backgroundColor': 'rgb(0, 238, 0)',
+                'fontWeight': 'bold'
+            },
+            
+            filter_action="native",
+            sort_action="native",
+            sort_mode="multi",
+            column_selectable="single",
+            row_selectable="multi",
+            row_deletable=True,
+            selected_columns=[],
+            selected_rows=[],
+            page_action="native",
+            page_current= 0,
+            page_size= 10,
+
+            )
+        
+       ]
+
+
 
 @app.callback(
     Output('map-id', "children"),
     [Input('datatable-id', "derived_viewport_data")])
 def update_map(viewData):
-#FIXME: Add in the code for your geolocation chart
-#If you completed the Module Six Assignment, you can copy in the code you created here.
-dff = pd.DataFrame.from_dict(viewData)
-        # Austin TX is at [30.75,-97.48]
+#FIXME Add in the code for your geolocation chart
+    dff = pd.DataFrame.from_dict(viewData)
+    # Austin TX is at [30.75,-97.48]
     return [
-            dl.Map(style={'width': '1000px', 'height': '500px'}, center=[30.75,-97.48], zoom=10, children=[
-                dl.TileLayer(id="base-layer-id"),
-                # Marker with tool tip and popup
-                dl.Marker(position=[30.75,-97.48], children=[
-                    dl.Tooltip(dff.iloc[0,4]),
-                    dl.Popup([
-                        html.H1("Animal Name"),
-                        html.P(dff.iloc[1,9])
-                    ])
+        dl.Map(style={'width': '1000px', 'height': '500px'}, center=[30.75,-97.48], zoom=10, children=[
+            dl.TileLayer(id="base-layer-id"),
+            # Marker with tool tip and popup
+            dl.Marker(position=[30.75,-97.48], children=[
+                dl.Tooltip(dff.iloc[0,4]),
+                dl.Popup([
+                    html.H1("Animal Name"),
+                    html.P(dff.iloc[0,10]),
+                    html.H3("Animal Color"),
+                    html.P(dff.iloc[0,5]),
+                    html.H3("Animal ID"),
+                    html.P(dff.iloc[0,2]),
+                    
                 ])
             ])
+        ])
     ]
 
 
+#############################################
+# Interaction Between Components / Controller
+#############################################
+#This callback will highlight a row on the data table when the user selects it
 app
+
 ```
 
 [back](./)
