@@ -44,7 +44,13 @@ Security is a practice I always have in mind from the moment I start a project, 
 
 ## **Informal Code Review**
 ### Overview:
-Code reviews are very important PLACEHOLDER TO BE FINISHED
+<p style="text-indent: 55px;">
+My code review video contains all three artifacts. I analyze each artifact separately for errors, vulnerabilities, and weaknesses. I narrate my plans for improvements/enhancements during the walkthrough of each artifact. In software design and engineering, I use Visual Studio to showcase the C++ code of my original artifact to explain my planned enhancement. In algorithms and data structures, and databases, I showcase my original code in PyCharm using Python to explain my planned enhancement; these cover both artifact two and three. Throughout my videos, I provide professional-quality oral, written, and visual communication techniques to effectively explain a code review through collaborative environments that are coherent, technically sound, and appropriately adapted to specific audiences. The basis of my code review focuses on three critical elements:
+</p>
+
+  - Existing functionality: A detailed walk-through of the existing code focused on the features and function of the current code.
+  - Code Analysis: Target areas of improvement in structure, logic, efficiency, functionality, security, testing, commenting, and documenting.
+  - Enhancements: A walk-through of planned enhancements that address issues raised in the code analysis.
 
 <iframe align="center" width="900" height="480" src="https://www.youtube.com/embed/Blk_gB-TfTo?si=QWKd_WiVbFxKIn3d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
