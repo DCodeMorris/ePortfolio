@@ -14,7 +14,7 @@ I successfully completed GAM-305 Digital Game Development as an elective to furt
 </p>
 
 <p style="text-indent: 55px;">
-My acquired knowledge of communicating in a team environment taught me the importance of communication with stakeholders. Throughout my 5 years, I took multiple classes where the final project was based on real-life scenarios. It was a company with a list of requirements and goals with a descriptive background. Communication with stakeholders provided a better understanding of requirements and business goals, and it also built trust. With this skill, I was able to deliver a quality product that meets all the expectations of the company's goals. This leads me to success in the product management and development fields.
+My acquired knowledge of communicating in a team environment taught me the importance of communication with stakeholders. Throughout my 5 years, I took multiple classes where the final project was based on real-life scenarios. It was a company with a list of requirements and goals with a descriptive background. Communication with stakeholders provided a better understanding of requirements and business goals, and it also built trust. With this skill, I was able to deliver a quality product that met all the expectations of the company's goals. This leads me to success in the product management and development fields.
 </p>
 
 <p style="text-indent: 55px;">
@@ -40,7 +40,7 @@ Security is the main focus in the forefront of all new projects and implemented 
   - I Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals
   - I Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources
 
-For a complete summary on how I achieved meeting these outcomes [(Click Here)](https://github.com/DCodeMorris/ePortfolio/blob/main/Narratives/20231202_Course_Outcomes_Morris.pdf)
+For a complete summary on how I achieved these outcomes [(Click Here)](https://github.com/DCodeMorris/ePortfolio/blob/main/Narratives/20231202_Course_Outcomes_Morris.pdf)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -185,7 +185,7 @@ I have showcased my knowledge and skills, meeting the outcomes of the course by 
 </p>
 
 <p style="text-indent: 55px;">
-I meet this outcome by using external tools and libraries, in my case  <strong><code>`auth.py`</code></strong> , for password hashing which exhibits my knowledge and understanding of how to utilize third-party tools. I highlight my strong abilities utilizing MongoDB by creating a collection for storing new user data. I enhanced functionality by adding button components for <strong><code>`Login`</code></strong> and <strong><code>`Register`</code></strong>, further expanding my dashboard. The logic for my new components provides a deeper understanding of application behavior and user interactions. I demonstrate good coding practices by using separate authentication-related functions in <strong><code>`auth.py`</code></strong>. I showcase problem-solving skills by preventing duplicate usernames during registration.
+I met the outcome by using external tools and libraries, in my case  <strong><code>`auth.py`</code></strong> , for password hashing which exhibits my knowledge and understanding of how to utilize third-party tools. I highlight my strong abilities utilizing MongoDB by creating a collection for storing new user data. I enhanced functionality by adding button components for <strong><code>`Login`</code></strong> and <strong><code>`Register`</code></strong>, further expanding my dashboard. The logic for my new components provides a deeper understanding of application behavior and user interactions. I demonstrate good coding practices by using separate authentication-related functions in <strong><code>`auth.py`</code></strong>. I showcase problem-solving skills by preventing duplicate usernames during registration.
 </p>
 
 <p style="text-indent: 55px;">
@@ -193,7 +193,7 @@ I developed a security mindset that anticipates adversarial exploits in software
 </p>
 
 <p style="text-indent: 55px;">
-I also meet the outcome for employing strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science. The security measures I used provide privacy and security which would help users feel confident and protected in sharing data within my application, which is needed for organizational decision-making processes. I implemented the option to run the application from different machines on the same network showing the option to expand my application to be used by a greater range of users.
+I also met the outcome for employing strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science. The security measures I used provide privacy and security which would help users feel confident and protected in sharing data within my application, which is needed for organizational decision-making processes. I implemented the option to run the application from different machines on the same network showing the option to expand my application to be used by a greater range of users.
 </p>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
